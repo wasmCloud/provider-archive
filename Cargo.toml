@@ -1,6 +1,6 @@
 [package]
 name = "provider-archive"
-version = "0.6.0"
+version = "0.7.0"
 authors = ["wasmCloud Team"]
 edition = "2021"
 description = "Library for reading and writing wasmCloud capability provider archive files"
